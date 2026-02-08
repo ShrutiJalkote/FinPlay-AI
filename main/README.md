@@ -150,7 +150,7 @@ Lower RMSE and MAE with higher R² indicate better performance.
 
 ---
 
-## 🎯 Hackathon Alignment
+## 🎯 Alignment
 
 ✔ Behaviour-based learning  
 ✔ Gamification  
